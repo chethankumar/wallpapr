@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/mipmap-xxxhdpi/dev_icon.png",
+        "source": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/src/main/res/mipmap-xxxhdpi/dev_icon.png"
+    }
+]

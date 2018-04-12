@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/cycle.xml",
+        "source": "/Users/chethan/.android/build-cache/5220fede7e9b6faf3e892b0c659c65434368bd4c/output/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/chethan/.android/build-cache/ba97444b4ad27383b5dc6d741cb9ba0d65684c67/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_exit.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/chethan/.android/build-cache/ba97444b4ad27383b5dc6d741cb9ba0d65684c67/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_up.xml",
+        "source": "/Users/chethan/.android/build-cache/ddede0a14deb7e56a21cff21e338eeed135ce2f1/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/chethan/.android/build-cache/ba97444b4ad27383b5dc6d741cb9ba0d65684c67/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_out.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/shake.xml",
+        "source": "/Users/chethan/.android/build-cache/5220fede7e9b6faf3e892b0c659c65434368bd4c/output/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/chethan/.android/build-cache/ba97444b4ad27383b5dc6d741cb9ba0d65684c67/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/chethan/.android/build-cache/ba97444b4ad27383b5dc6d741cb9ba0d65684c67/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/chethan/.android/build-cache/ba97444b4ad27383b5dc6d741cb9ba0d65684c67/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_out.xml",
+        "source": "/Users/chethan/.android/build-cache/ddede0a14deb7e56a21cff21e338eeed135ce2f1/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/tooltip_enter.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/slide_down.xml",
+        "source": "/Users/chethan/.android/build-cache/ddede0a14deb7e56a21cff21e338eeed135ce2f1/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/fade_in.xml",
+        "source": "/Users/chethan/.android/build-cache/ddede0a14deb7e56a21cff21e338eeed135ce2f1/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_fade_in.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

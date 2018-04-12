@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

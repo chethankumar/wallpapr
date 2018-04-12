@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_header_background.xml",
+        "source": "/Users/chethan/.android/build-cache/388294b1bbc633cf50a708cee3b031803ef61c82/output/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/chethan/.android/build-cache/7d16b7df2f84f03e454acdffd8f868c979f02de6/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/crop_image_menu_crop_stub.xml",
+        "source": "/Users/chethan/.android/build-cache/63c1da28367d4a88a4356c8126225a66b15d87c7/output/res/drawable/crop_image_menu_crop_stub.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/edit_text_holo_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/drawable/edit_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/stp_card_form_back.png",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/drawable/stp_card_form_back.png"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_background.xml",
+        "source": "/Users/chethan/.android/build-cache/388294b1bbc633cf50a708cee3b031803ef61c82/output/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
+        "source": "/Users/chethan/.android/build-cache/388294b1bbc633cf50a708cee3b031803ef61c82/output/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/chethan/.android/build-cache/388294b1bbc633cf50a708cee3b031803ef61c82/output/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/btn_default_holo_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/drawable/btn_default_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_send_button_icon.xml",
+        "source": "/Users/chethan/.android/build-cache/bc9088afa969cc5d641b34bc41db02348845ebb2/output/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/chethan/.android/build-cache/7d16b7df2f84f03e454acdffd8f868c979f02de6/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/chethan/.android/build-cache/388294b1bbc633cf50a708cee3b031803ef61c82/output/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/chethan/.android/build-cache/a56e49a9b18494abb4b4d9b601e6cd8729a24d27/output/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_background.xml",
+        "source": "/Users/chethan/.android/build-cache/25103fd34912dbe20d85bb3df478952361ab30c7/output/res/drawable/com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/chethan/.android/build-cache/a56e49a9b18494abb4b4d9b601e6cd8729a24d27/output/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/loading_status_bar_background.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/drawable/loading_status_bar_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_bg.xml",
+        "source": "/Users/chethan/.android/build-cache/7d16b7df2f84f03e454acdffd8f868c979f02de6/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/background_white.xml",
+        "source": "/Users/chethan/.android/build-cache/5220fede7e9b6faf3e892b0c659c65434368bd4c/output/res/drawable/background_white.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/chethan/.android/build-cache/a56e49a9b18494abb4b4d9b601e6cd8729a24d27/output/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/chethan/.android/build-cache/a56e49a9b18494abb4b4d9b601e6cd8729a24d27/output/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_icon.xml",
+        "source": "/Users/chethan/.android/build-cache/388294b1bbc633cf50a708cee3b031803ef61c82/output/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/chethan/.android/build-cache/7d16b7df2f84f03e454acdffd8f868c979f02de6/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/card_512.png",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/drawable/card_512.png"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/stp_card_form_front.png",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/drawable/stp_card_form_front.png"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_favicon_blue.xml",
+        "source": "/Users/chethan/.android/build-cache/388294b1bbc633cf50a708cee3b031803ef61c82/output/res/drawable/com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_logo.xml",
+        "source": "/Users/chethan/.android/build-cache/25103fd34912dbe20d85bb3df478952361ab30c7/output/res/drawable/com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/spinner_background_holo_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/drawable/spinner_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/chethan/.android/build-cache/25103fd34912dbe20d85bb3df478952361ab30c7/output/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/card_input_custom_background.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/drawable/card_input_custom_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/header_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/drawable/header_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/splash_background.xml",
+        "source": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/src/main/res/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/chethan/.android/build-cache/bc9088afa969cc5d641b34bc41db02348845ebb2/output/res/drawable/com_facebook_button_send_background.xml"
+    }
+]

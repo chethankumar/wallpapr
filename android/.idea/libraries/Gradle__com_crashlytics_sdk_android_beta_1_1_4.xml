@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.crashlytics.sdk.android:beta-1.1.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/c522c400b3195eb1e4017e7f3a418fd65804443f/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c522c400b3195eb1e4017e7f3a418fd65804443f/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

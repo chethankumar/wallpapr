@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_left_out.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/animator/card_flip_left_out.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_right_out.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/animator/card_flip_right_out.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_right_in.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/animator/card_flip_left_in.xml",
+        "source": "/Users/chethan/.android/build-cache/da06bd8e5a7c830c1b8b7184257f3f5cc8ea275b/output/res/animator/card_flip_left_in.xml"
+    }
+]

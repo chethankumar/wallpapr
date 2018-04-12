@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/chethan/.android/build-cache/9d1dfab406c6f69488734c966a40fb98dce19650/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_search_url_text.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/chethan/.android/build-cache/388294b1bbc633cf50a708cee3b031803ef61c82/output/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_default.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/chethan/.android/build-cache/22e4b2ddae080affe553b69c763e5aae38e6b3e6/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/chethan/.android/build-cache/9d1dfab406c6f69488734c966a40fb98dce19650/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/chethan/.android/build-cache/bc9088afa969cc5d641b34bc41db02348845ebb2/output/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/res/merged/dev19/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/chethan/.android/build-cache/603530f3cb41bdabdf955af92e0f51de8c0b3e64/output/res/color/abc_tint_btn_checkable.xml"
+    }
+]

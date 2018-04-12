@@ -1,0 +1,13 @@
+#Thu Apr 12 14:19:45 IST 2018
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/1f/main
+base.2=/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/1f/main
+base.1=/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/1f/main
+base.0=/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/1f/main
+file.3=/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/1f/main/classes4.dex
+file.2=/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/1f/main/classes3.dex
+file.1=/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/1f/main/classes2.dex
+file.0=/Users/chethan/Documents/Projects/wallpapr/wallpapr/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/1f/main/classes.dex

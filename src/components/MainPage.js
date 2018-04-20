@@ -49,7 +49,7 @@ export default class MainPage extends React.Component {
 
   downloadImage(imageUrl) {
     let fileName = '';
-    if (Platform === 'android') {
+    if (Platform.OS === 'android') {
       fileName += 'wallpapr/';
     }
     fileName += imageUrl.substring(imageUrl.indexOf('/photos/') + 8, imageUrl.indexOf('/download'));
@@ -95,7 +95,7 @@ export default class MainPage extends React.Component {
           </TouchableOpacity>
         </View>
       </View>
-    </View>);
+            </View>);
   }
 
 
